@@ -1,7 +1,7 @@
-package ch.wiss1.domain.product;
+package com.example.jwt.domain.product;
 
-import ch.wiss1.domain.product.dto.ProductMapper;
-import ch.wiss1.domain.product.dto.ProductDTO;
+import com.example.jwt.domain.product.dto.ProductMapper;
+import com.example.jwt.domain.product.dto.ProductDTO;
 import java.util.List;
 import java.util.UUID;
 import javax.validation.Valid;

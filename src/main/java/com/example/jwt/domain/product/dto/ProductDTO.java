@@ -1,5 +1,4 @@
-package ch.wiss1.domain.product.dto;
-
+package com.example.jwt.domain.product.dto;
 import javax.validation.constraints.Max;
 import javax.validation.constraints.NotNull;
 

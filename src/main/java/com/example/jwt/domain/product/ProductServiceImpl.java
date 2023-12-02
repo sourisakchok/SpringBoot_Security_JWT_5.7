@@ -1,4 +1,4 @@
-package ch.wiss1.domain.product;
+package com.example.jwt.domain.product;
 
 import org.springframework.data.domain.Pageable;
 import java.util.List;
